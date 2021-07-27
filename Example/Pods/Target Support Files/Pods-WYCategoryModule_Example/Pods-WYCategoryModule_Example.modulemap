@@ -1,0 +1,6 @@
+framework module Pods_WYCategoryModule_Example {
+  umbrella header "Pods-WYCategoryModule_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

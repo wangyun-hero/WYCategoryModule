@@ -1,0 +1,22 @@
+{
+  "name": "WYCategoryModule",
+  "version": "0.1.0",
+  "summary": "A short description of WYCategoryModule.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wangyun-hero/WYCategoryModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wangyun-hero": "wangyun120411@163.com"
+  },
+  "source": {
+    "git": "https://github.com/wangyun-hero/WYCategoryModule.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "WYCategoryModule/Classes/**/*"
+}
